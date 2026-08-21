@@ -2,14 +2,20 @@
 
 Secure document checking made simple.
 
-Fylert is a lightweight desktop application that helps professionals scan, review, and organize documents securely.
+Fylert is a lightweight desktop application that helps professionals find hidden document issues before sending files.
 
-## Features
+## Download
 
-- Local document scanning
-- Document issue detection
-- Privacy-first processing
+Download the latest version from:
 
-## Website
+https://github.com/Fylert/fylert-desktop/releases
 
-https://fylert.com
+## Supported Platforms
+
+- macOS
+- Windows
+
+## Privacy
+
+Fylert processes documents locally on your device.
+Your files are not uploaded.
