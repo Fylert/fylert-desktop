@@ -50,9 +50,9 @@ Microsoft explains how file and publisher reputation affect warnings in [SmartSc
 
 ### macOS Beta notice
 
-The macOS Beta is not notarized by Apple, so macOS may show a security warning. Review the release details and checksum before installing, and only continue if you are comfortable testing an unnotarized Beta.
+The macOS Beta is signed with an Apple Developer ID and notarized by Apple. macOS Gatekeeper can verify the application as coming from an identified developer. Fylert remains a Beta release; review the release details and checksum before installing.
 
-macOS DMG SHA-256: `370b93710a140048bc88099e483633727b7e4ab0cda335ca6bf67ba71887e460`
+macOS DMG SHA-256: `25ec2f678e011305cc20d1b965e6065030ee91bde26a6ab70964cbb1733895d0`
 
 Apple explains the risks and available controls in [Safely open apps on your Mac](https://support.apple.com/en-us/102445).
 
